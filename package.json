@@ -1,0 +1,17 @@
+{
+  "name": "breaktime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Heinrich <gabriel@codecampleipzig.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "bin": {
+    "breaktime": "src/index.js"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
